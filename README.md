@@ -1,7 +1,7 @@
 📊 Projeto de Engenharia de Dados
 Descrição
 Este repositório contém 16 questões de Engenharia de Dados, desenvolvidas em Python. Cada questão aborda conceitos fundamentais e avançados da área, proporcionando uma excelente oportunidade para praticar e aprimorar suas habilidades em Engenharia de Dados. 🚀 
-  
+   
 Funcionalidades           
 1. Calcular a Média de uma Lista de Números
 Este código calcula a média de uma lista de números, somando todos os elementos e dividindo pelo número total de elementos. 📐
